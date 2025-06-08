@@ -6,9 +6,9 @@ Este proyecto fue desarrollado como un **Trabajo Práctico** en Python. Consiste
 
 La aplicación permite calcular los siguientes indicadores:
 
-1. **IMC (Índice de Masa Corporal)**
+1. **IMC**
 2. **Porcentaje de grasa corporal**
-3. **Gasto calórico en reposo (TMB)**
+3. **Gasto calórico en reposo**
 4. **Gasto calórico con actividad física**
 5. **Calorías recomendadas para adelgazar**
 
