@@ -18,7 +18,7 @@ Está diseñada exclusivamente para **adultos**. Los valores válidos para ingre
 
 - **Peso:** entre **40 y 300 kg**
 - **Altura:**
-  - Para **IMC y % de grasa**: entre **1.4 y 3.0 metros**
+  - Para **IMC y % de grasa**: entre **1.40 y 3 metros**
   - Para otros cálculos: ingresar en **centímetros**
 - **Edad:** entre **18 y 102 años**
 
